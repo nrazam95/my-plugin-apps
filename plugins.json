@@ -1,0 +1,4 @@
+{
+    "pluginOne": "./pluginOne.js",
+    "pluginTwo": "Plugin Two"
+}
